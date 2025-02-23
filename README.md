@@ -1,5 +1,5 @@
 # 🚀 Boom Token DApp
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fef6aa75-c956-41e2-971a-d25ac330e825/deploy-status)](https://app.netlify.com/sites/boomdefihub/deploys)
 A decentralized application (DApp) for **Boom Token** on Binance Smart Chain (BSC). This DApp allows users to connect their wallets, view their BOOM token balance, and send transactions.
 
 ## 🌟 Features
